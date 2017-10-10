@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;TimerADelay&apos; to &apos;TimerADelayFR5994&apos;" description="Rename resource &apos;TimerADelay&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/TimerADelay" name="TimerADelayFR5994" stamp="1507417224981" updateReferences="true"/>
+</session>

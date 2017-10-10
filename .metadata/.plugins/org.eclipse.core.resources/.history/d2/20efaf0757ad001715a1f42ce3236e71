@@ -1,0 +1,79 @@
+
+#include <msp430.h>
+unsigned int hz;
+int start;
+int end;
+int flag = 0;
+
+int main(void)
+{
+
+    WDTCTL = WDTPW | WDTHOLD;                     // Stop WDT
+
+    // Configure GPIO
+    P1DIR |= BIT0;                                // Set Pin as output
+    P2OUT |= BIT1;
+
+    P2REN |= BIT1; // enable register
+    P2IE |= BIT1; // interrupt enable
+    P2IES |= BIT1; //falling edge
+    P2OUT |= BIT1; //
+    P2IFG &= ~BIT1; // Turn off interrupt flags
+
+    // Disable the GPIO power-on default high-impedance mode to activate
+    // previously configured port settings
+
+    // Timer1_B3 setup
+    TA0CCTL0 = CCIE;                              // TBCCR0 interrupt enabled
+    TA0CCR0 = 205;
+    hz = 205;
+    TA0CTL = TASSEL_1 + MC_2 + ID_3;                     // ACLK, continuous mode, 32768/8 = 4096 Hz
+
+
+    __bis_SR_register(GIE);   // Enable interrupt
+    while(1)
+    {
+        if(flag)
+        {
+            flag = 0;
+            if(end <= start)
+            {
+                TA0CCR0 = 65535 - start + end + TA0R;
+                hz = 65535 - start + end;
+            }
+            else
+            {
+                TA0CCR0 = end-start+TA0R;
+                hz = end - start;
+            }
+        }
+
+    }
+}
+
+//button interrupt
+#pragma vector = PORT2_VECTOR
+__interrupt void Port2(void)
+{
+    if(P2IES & BIT1)
+    {
+        start = TA0R;
+    }
+    else
+    {
+        end = TA0R;
+        flag = 1;
+    }
+    P2IES ^= BIT1;//checking for falling edge and rising edge of button press
+
+    P2IFG &= ~BIT1;                 //clear flag
+
+}
+// Timer B1 interrupt service routine
+#pragma vector = TIMER0_A0_VECTOR
+__interrupt void Timer0_A0_ISR(void)
+
+{
+        P1OUT ^= BIT0;
+        TA0CCR0 += hz;
+}

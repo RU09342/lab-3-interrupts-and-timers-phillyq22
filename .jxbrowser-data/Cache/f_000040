@@ -1,0 +1,322 @@
+[
+  {
+    "text": "MSP430FR2000",
+    "type": "folder",
+    "numChildren": 3,
+    "numChildrenLocal": 0,
+    "children": true,
+    "allowPartialDownload": false,
+    "_downloadLink": "api/bundle?vid=msp430_devices__3.80.01.01&download=true",
+    "_makeofflineLink": "api/bundles?vids=msp430_devices__3.80.01.01",
+    "_removeofflineLink": "api/resources?package=c2000ware_devices_package__1.00.02.00::cc13x0_devices__1.00.00.0002::cc13xx_devtools__1.00.00.0002::cc26x0_devices__1.00.00.0002::cc26xx_devtools__1.00.00.0001::cc32xx_devices__1.00.00.00::cc32xx_devtools__1.00.00.00::ccs_devtools__1.00.00.12::com.ti.mmwave_devices__1.0.0::com.ti.mmwave_devtools__0.2.0::msp430_devices__3.80.01.01::msp430_devtools__3.80.01.01::msp432_devices__1.10.00.15::msp432_devtools__1.10.00.15::mspdevtools__1.00.00.40::sdtoutilities__1.00.00.05::sitara_devices__1.00.00.00::sitara_devtools__1.00.00.00::tivac_devices__1.00.00.00::tivac_devtools__1.00.00.00::xdsdebugprobes__1.00.00.03&path=Device Documentation/MSP430FR2XX_4XX/MSP430FR2000&removeoffline=true",
+    "state": {
+      "opened": false
+    },
+    "package": "MSP430 Device Documents",
+    "packageUId": "msp430_devices__3.80.01.01",
+    "url": "/api/resources?path=Device%20Documentation/MSP430FR2XX_4XX&package=",
+    "overviewDescription": "The MSP430FR2xx/4xx platform features devices with a small memory footprint with an ultra-low-power LCD controller and abundant capacitive touch enabled IO pins. The 256-segment LCD controller has an integrated charge pump for maintained contrast in low-power modes and features software configurable pins for simplified hardware layout of LCDs. IR modulation logic is also available on these MCUs.",
+    "overviewImage": "tirex-product-tree/msp430_devices_3_80_01_01/.metadata/.tirex/images/msp430fr2xx_4xx_square.png",
+    "packageOrder": 89
+  },
+  {
+    "text": "MSP430FR2032",
+    "type": "folder",
+    "numChildren": 3,
+    "numChildrenLocal": 0,
+    "children": true,
+    "allowPartialDownload": false,
+    "_downloadLink": "api/bundle?vid=msp430_devices__3.80.01.01&download=true",
+    "_makeofflineLink": "api/bundles?vids=msp430_devices__3.80.01.01",
+    "_removeofflineLink": "api/resources?package=c2000ware_devices_package__1.00.02.00::cc13x0_devices__1.00.00.0002::cc13xx_devtools__1.00.00.0002::cc26x0_devices__1.00.00.0002::cc26xx_devtools__1.00.00.0001::cc32xx_devices__1.00.00.00::cc32xx_devtools__1.00.00.00::ccs_devtools__1.00.00.12::com.ti.mmwave_devices__1.0.0::com.ti.mmwave_devtools__0.2.0::msp430_devices__3.80.01.01::msp430_devtools__3.80.01.01::msp432_devices__1.10.00.15::msp432_devtools__1.10.00.15::mspdevtools__1.00.00.40::sdtoutilities__1.00.00.05::sitara_devices__1.00.00.00::sitara_devtools__1.00.00.00::tivac_devices__1.00.00.00::tivac_devtools__1.00.00.00::xdsdebugprobes__1.00.00.03&path=Device Documentation/MSP430FR2XX_4XX/MSP430FR2032&removeoffline=true",
+    "state": {
+      "opened": false
+    },
+    "package": "MSP430 Device Documents",
+    "packageUId": "msp430_devices__3.80.01.01",
+    "url": "/api/resources?path=Device%20Documentation/MSP430FR2XX_4XX&package=",
+    "overviewDescription": "The MSP430FR2xx/4xx platform features devices with a small memory footprint with an ultra-low-power LCD controller and abundant capacitive touch enabled IO pins. The 256-segment LCD controller has an integrated charge pump for maintained contrast in low-power modes and features software configurable pins for simplified hardware layout of LCDs. IR modulation logic is also available on these MCUs.",
+    "overviewImage": "tirex-product-tree/msp430_devices_3_80_01_01/.metadata/.tirex/images/msp430fr2xx_4xx_square.png",
+    "packageOrder": 89
+  },
+  {
+    "text": "MSP430FR2033",
+    "type": "folder",
+    "numChildren": 3,
+    "numChildrenLocal": 0,
+    "children": true,
+    "allowPartialDownload": false,
+    "_downloadLink": "api/bundle?vid=msp430_devices__3.80.01.01&download=true",
+    "_makeofflineLink": "api/bundles?vids=msp430_devices__3.80.01.01",
+    "_removeofflineLink": "api/resources?package=c2000ware_devices_package__1.00.02.00::cc13x0_devices__1.00.00.0002::cc13xx_devtools__1.00.00.0002::cc26x0_devices__1.00.00.0002::cc26xx_devtools__1.00.00.0001::cc32xx_devices__1.00.00.00::cc32xx_devtools__1.00.00.00::ccs_devtools__1.00.00.12::com.ti.mmwave_devices__1.0.0::com.ti.mmwave_devtools__0.2.0::msp430_devices__3.80.01.01::msp430_devtools__3.80.01.01::msp432_devices__1.10.00.15::msp432_devtools__1.10.00.15::mspdevtools__1.00.00.40::sdtoutilities__1.00.00.05::sitara_devices__1.00.00.00::sitara_devtools__1.00.00.00::tivac_devices__1.00.00.00::tivac_devtools__1.00.00.00::xdsdebugprobes__1.00.00.03&path=Device Documentation/MSP430FR2XX_4XX/MSP430FR2033&removeoffline=true",
+    "state": {
+      "opened": false
+    },
+    "package": "MSP430 Device Documents",
+    "packageUId": "msp430_devices__3.80.01.01",
+    "url": "/api/resources?path=Device%20Documentation/MSP430FR2XX_4XX&package=",
+    "overviewDescription": "The MSP430FR2xx/4xx platform features devices with a small memory footprint with an ultra-low-power LCD controller and abundant capacitive touch enabled IO pins. The 256-segment LCD controller has an integrated charge pump for maintained contrast in low-power modes and features software configurable pins for simplified hardware layout of LCDs. IR modulation logic is also available on these MCUs.",
+    "overviewImage": "tirex-product-tree/msp430_devices_3_80_01_01/.metadata/.tirex/images/msp430fr2xx_4xx_square.png",
+    "packageOrder": 89
+  },
+  {
+    "text": "MSP430FR2100",
+    "type": "folder",
+    "numChildren": 3,
+    "numChildrenLocal": 0,
+    "children": true,
+    "allowPartialDownload": false,
+    "_downloadLink": "api/bundle?vid=msp430_devices__3.80.01.01&download=true",
+    "_makeofflineLink": "api/bundles?vids=msp430_devices__3.80.01.01",
+    "_removeofflineLink": "api/resources?package=c2000ware_devices_package__1.00.02.00::cc13x0_devices__1.00.00.0002::cc13xx_devtools__1.00.00.0002::cc26x0_devices__1.00.00.0002::cc26xx_devtools__1.00.00.0001::cc32xx_devices__1.00.00.00::cc32xx_devtools__1.00.00.00::ccs_devtools__1.00.00.12::com.ti.mmwave_devices__1.0.0::com.ti.mmwave_devtools__0.2.0::msp430_devices__3.80.01.01::msp430_devtools__3.80.01.01::msp432_devices__1.10.00.15::msp432_devtools__1.10.00.15::mspdevtools__1.00.00.40::sdtoutilities__1.00.00.05::sitara_devices__1.00.00.00::sitara_devtools__1.00.00.00::tivac_devices__1.00.00.00::tivac_devtools__1.00.00.00::xdsdebugprobes__1.00.00.03&path=Device Documentation/MSP430FR2XX_4XX/MSP430FR2100&removeoffline=true",
+    "state": {
+      "opened": false
+    },
+    "package": "MSP430 Device Documents",
+    "packageUId": "msp430_devices__3.80.01.01",
+    "url": "/api/resources?path=Device%20Documentation/MSP430FR2XX_4XX&package=",
+    "overviewDescription": "The MSP430FR2xx/4xx platform features devices with a small memory footprint with an ultra-low-power LCD controller and abundant capacitive touch enabled IO pins. The 256-segment LCD controller has an integrated charge pump for maintained contrast in low-power modes and features software configurable pins for simplified hardware layout of LCDs. IR modulation logic is also available on these MCUs.",
+    "overviewImage": "tirex-product-tree/msp430_devices_3_80_01_01/.metadata/.tirex/images/msp430fr2xx_4xx_square.png",
+    "packageOrder": 89
+  },
+  {
+    "text": "MSP430FR2110",
+    "type": "folder",
+    "numChildren": 3,
+    "numChildrenLocal": 0,
+    "children": true,
+    "allowPartialDownload": false,
+    "_downloadLink": "api/bundle?vid=msp430_devices__3.80.01.01&download=true",
+    "_makeofflineLink": "api/bundles?vids=msp430_devices__3.80.01.01",
+    "_removeofflineLink": "api/resources?package=c2000ware_devices_package__1.00.02.00::cc13x0_devices__1.00.00.0002::cc13xx_devtools__1.00.00.0002::cc26x0_devices__1.00.00.0002::cc26xx_devtools__1.00.00.0001::cc32xx_devices__1.00.00.00::cc32xx_devtools__1.00.00.00::ccs_devtools__1.00.00.12::com.ti.mmwave_devices__1.0.0::com.ti.mmwave_devtools__0.2.0::msp430_devices__3.80.01.01::msp430_devtools__3.80.01.01::msp432_devices__1.10.00.15::msp432_devtools__1.10.00.15::mspdevtools__1.00.00.40::sdtoutilities__1.00.00.05::sitara_devices__1.00.00.00::sitara_devtools__1.00.00.00::tivac_devices__1.00.00.00::tivac_devtools__1.00.00.00::xdsdebugprobes__1.00.00.03&path=Device Documentation/MSP430FR2XX_4XX/MSP430FR2110&removeoffline=true",
+    "state": {
+      "opened": false
+    },
+    "package": "MSP430 Device Documents",
+    "packageUId": "msp430_devices__3.80.01.01",
+    "url": "/api/resources?path=Device%20Documentation/MSP430FR2XX_4XX&package=",
+    "overviewDescription": "The MSP430FR2xx/4xx platform features devices with a small memory footprint with an ultra-low-power LCD controller and abundant capacitive touch enabled IO pins. The 256-segment LCD controller has an integrated charge pump for maintained contrast in low-power modes and features software configurable pins for simplified hardware layout of LCDs. IR modulation logic is also available on these MCUs.",
+    "overviewImage": "tirex-product-tree/msp430_devices_3_80_01_01/.metadata/.tirex/images/msp430fr2xx_4xx_square.png",
+    "packageOrder": 89
+  },
+  {
+    "text": "MSP430FR2111",
+    "type": "folder",
+    "numChildren": 3,
+    "numChildrenLocal": 0,
+    "children": true,
+    "allowPartialDownload": false,
+    "_downloadLink": "api/bundle?vid=msp430_devices__3.80.01.01&download=true",
+    "_makeofflineLink": "api/bundles?vids=msp430_devices__3.80.01.01",
+    "_removeofflineLink": "api/resources?package=c2000ware_devices_package__1.00.02.00::cc13x0_devices__1.00.00.0002::cc13xx_devtools__1.00.00.0002::cc26x0_devices__1.00.00.0002::cc26xx_devtools__1.00.00.0001::cc32xx_devices__1.00.00.00::cc32xx_devtools__1.00.00.00::ccs_devtools__1.00.00.12::com.ti.mmwave_devices__1.0.0::com.ti.mmwave_devtools__0.2.0::msp430_devices__3.80.01.01::msp430_devtools__3.80.01.01::msp432_devices__1.10.00.15::msp432_devtools__1.10.00.15::mspdevtools__1.00.00.40::sdtoutilities__1.00.00.05::sitara_devices__1.00.00.00::sitara_devtools__1.00.00.00::tivac_devices__1.00.00.00::tivac_devtools__1.00.00.00::xdsdebugprobes__1.00.00.03&path=Device Documentation/MSP430FR2XX_4XX/MSP430FR2111&removeoffline=true",
+    "state": {
+      "opened": false
+    },
+    "package": "MSP430 Device Documents",
+    "packageUId": "msp430_devices__3.80.01.01",
+    "url": "/api/resources?path=Device%20Documentation/MSP430FR2XX_4XX&package=",
+    "overviewDescription": "The MSP430FR2xx/4xx platform features devices with a small memory footprint with an ultra-low-power LCD controller and abundant capacitive touch enabled IO pins. The 256-segment LCD controller has an integrated charge pump for maintained contrast in low-power modes and features software configurable pins for simplified hardware layout of LCDs. IR modulation logic is also available on these MCUs.",
+    "overviewImage": "tirex-product-tree/msp430_devices_3_80_01_01/.metadata/.tirex/images/msp430fr2xx_4xx_square.png",
+    "packageOrder": 89
+  },
+  {
+    "text": "MSP430FR2310",
+    "type": "folder",
+    "numChildren": 3,
+    "numChildrenLocal": 0,
+    "children": true,
+    "allowPartialDownload": false,
+    "_downloadLink": "api/bundle?vid=msp430_devices__3.80.01.01&download=true",
+    "_makeofflineLink": "api/bundles?vids=msp430_devices__3.80.01.01",
+    "_removeofflineLink": "api/resources?package=c2000ware_devices_package__1.00.02.00::cc13x0_devices__1.00.00.0002::cc13xx_devtools__1.00.00.0002::cc26x0_devices__1.00.00.0002::cc26xx_devtools__1.00.00.0001::cc32xx_devices__1.00.00.00::cc32xx_devtools__1.00.00.00::ccs_devtools__1.00.00.12::com.ti.mmwave_devices__1.0.0::com.ti.mmwave_devtools__0.2.0::msp430_devices__3.80.01.01::msp430_devtools__3.80.01.01::msp432_devices__1.10.00.15::msp432_devtools__1.10.00.15::mspdevtools__1.00.00.40::sdtoutilities__1.00.00.05::sitara_devices__1.00.00.00::sitara_devtools__1.00.00.00::tivac_devices__1.00.00.00::tivac_devtools__1.00.00.00::xdsdebugprobes__1.00.00.03&path=Device Documentation/MSP430FR2XX_4XX/MSP430FR2310&removeoffline=true",
+    "state": {
+      "opened": false
+    },
+    "package": "MSP430 Device Documents",
+    "packageUId": "msp430_devices__3.80.01.01",
+    "url": "/api/resources?path=Device%20Documentation/MSP430FR2XX_4XX&package=",
+    "overviewDescription": "The MSP430FR2xx/4xx platform features devices with a small memory footprint with an ultra-low-power LCD controller and abundant capacitive touch enabled IO pins. The 256-segment LCD controller has an integrated charge pump for maintained contrast in low-power modes and features software configurable pins for simplified hardware layout of LCDs. IR modulation logic is also available on these MCUs.",
+    "overviewImage": "tirex-product-tree/msp430_devices_3_80_01_01/.metadata/.tirex/images/msp430fr2xx_4xx_square.png",
+    "packageOrder": 89
+  },
+  {
+    "text": "MSP430FR2311",
+    "type": "folder",
+    "numChildren": 3,
+    "numChildrenLocal": 0,
+    "children": true,
+    "allowPartialDownload": false,
+    "_downloadLink": "api/bundle?vid=msp430_devices__3.80.01.01&download=true",
+    "_makeofflineLink": "api/bundles?vids=msp430_devices__3.80.01.01",
+    "_removeofflineLink": "api/resources?package=c2000ware_devices_package__1.00.02.00::cc13x0_devices__1.00.00.0002::cc13xx_devtools__1.00.00.0002::cc26x0_devices__1.00.00.0002::cc26xx_devtools__1.00.00.0001::cc32xx_devices__1.00.00.00::cc32xx_devtools__1.00.00.00::ccs_devtools__1.00.00.12::com.ti.mmwave_devices__1.0.0::com.ti.mmwave_devtools__0.2.0::msp430_devices__3.80.01.01::msp430_devtools__3.80.01.01::msp432_devices__1.10.00.15::msp432_devtools__1.10.00.15::mspdevtools__1.00.00.40::sdtoutilities__1.00.00.05::sitara_devices__1.00.00.00::sitara_devtools__1.00.00.00::tivac_devices__1.00.00.00::tivac_devtools__1.00.00.00::xdsdebugprobes__1.00.00.03&path=Device Documentation/MSP430FR2XX_4XX/MSP430FR2311&removeoffline=true",
+    "state": {
+      "opened": false
+    },
+    "package": "MSP430 Device Documents",
+    "packageUId": "msp430_devices__3.80.01.01",
+    "url": "/api/resources?path=Device%20Documentation/MSP430FR2XX_4XX&package=",
+    "overviewDescription": "The MSP430FR2xx/4xx platform features devices with a small memory footprint with an ultra-low-power LCD controller and abundant capacitive touch enabled IO pins. The 256-segment LCD controller has an integrated charge pump for maintained contrast in low-power modes and features software configurable pins for simplified hardware layout of LCDs. IR modulation logic is also available on these MCUs.",
+    "overviewImage": "tirex-product-tree/msp430_devices_3_80_01_01/.metadata/.tirex/images/msp430fr2xx_4xx_square.png",
+    "packageOrder": 89
+  },
+  {
+    "text": "MSP430FR2433",
+    "type": "folder",
+    "numChildren": 3,
+    "numChildrenLocal": 0,
+    "children": true,
+    "allowPartialDownload": false,
+    "_downloadLink": "api/bundle?vid=msp430_devices__3.80.01.01&download=true",
+    "_makeofflineLink": "api/bundles?vids=msp430_devices__3.80.01.01",
+    "_removeofflineLink": "api/resources?package=c2000ware_devices_package__1.00.02.00::cc13x0_devices__1.00.00.0002::cc13xx_devtools__1.00.00.0002::cc26x0_devices__1.00.00.0002::cc26xx_devtools__1.00.00.0001::cc32xx_devices__1.00.00.00::cc32xx_devtools__1.00.00.00::ccs_devtools__1.00.00.12::com.ti.mmwave_devices__1.0.0::com.ti.mmwave_devtools__0.2.0::msp430_devices__3.80.01.01::msp430_devtools__3.80.01.01::msp432_devices__1.10.00.15::msp432_devtools__1.10.00.15::mspdevtools__1.00.00.40::sdtoutilities__1.00.00.05::sitara_devices__1.00.00.00::sitara_devtools__1.00.00.00::tivac_devices__1.00.00.00::tivac_devtools__1.00.00.00::xdsdebugprobes__1.00.00.03&path=Device Documentation/MSP430FR2XX_4XX/MSP430FR2433&removeoffline=true",
+    "state": {
+      "opened": false
+    },
+    "package": "MSP430 Device Documents",
+    "packageUId": "msp430_devices__3.80.01.01",
+    "url": "/api/resources?path=Device%20Documentation/MSP430FR2XX_4XX&package=",
+    "overviewDescription": "The MSP430FR2xx/4xx platform features devices with a small memory footprint with an ultra-low-power LCD controller and abundant capacitive touch enabled IO pins. The 256-segment LCD controller has an integrated charge pump for maintained contrast in low-power modes and features software configurable pins for simplified hardware layout of LCDs. IR modulation logic is also available on these MCUs.",
+    "overviewImage": "tirex-product-tree/msp430_devices_3_80_01_01/.metadata/.tirex/images/msp430fr2xx_4xx_square.png",
+    "packageOrder": 89
+  },
+  {
+    "text": "MSP430FR2532",
+    "type": "folder",
+    "numChildren": 3,
+    "numChildrenLocal": 0,
+    "children": true,
+    "allowPartialDownload": false,
+    "_downloadLink": "api/bundle?vid=msp430_devices__3.80.01.01&download=true",
+    "_makeofflineLink": "api/bundles?vids=msp430_devices__3.80.01.01",
+    "_removeofflineLink": "api/resources?package=c2000ware_devices_package__1.00.02.00::cc13x0_devices__1.00.00.0002::cc13xx_devtools__1.00.00.0002::cc26x0_devices__1.00.00.0002::cc26xx_devtools__1.00.00.0001::cc32xx_devices__1.00.00.00::cc32xx_devtools__1.00.00.00::ccs_devtools__1.00.00.12::com.ti.mmwave_devices__1.0.0::com.ti.mmwave_devtools__0.2.0::msp430_devices__3.80.01.01::msp430_devtools__3.80.01.01::msp432_devices__1.10.00.15::msp432_devtools__1.10.00.15::mspdevtools__1.00.00.40::sdtoutilities__1.00.00.05::sitara_devices__1.00.00.00::sitara_devtools__1.00.00.00::tivac_devices__1.00.00.00::tivac_devtools__1.00.00.00::xdsdebugprobes__1.00.00.03&path=Device Documentation/MSP430FR2XX_4XX/MSP430FR2532&removeoffline=true",
+    "state": {
+      "opened": false
+    },
+    "package": "MSP430 Device Documents",
+    "packageUId": "msp430_devices__3.80.01.01",
+    "url": "/api/resources?path=Device%20Documentation/MSP430FR2XX_4XX&package=",
+    "overviewDescription": "The MSP430FR2xx/4xx platform features devices with a small memory footprint with an ultra-low-power LCD controller and abundant capacitive touch enabled IO pins. The 256-segment LCD controller has an integrated charge pump for maintained contrast in low-power modes and features software configurable pins for simplified hardware layout of LCDs. IR modulation logic is also available on these MCUs.",
+    "overviewImage": "tirex-product-tree/msp430_devices_3_80_01_01/.metadata/.tirex/images/msp430fr2xx_4xx_square.png",
+    "packageOrder": 89
+  },
+  {
+    "text": "MSP430FR2533",
+    "type": "folder",
+    "numChildren": 3,
+    "numChildrenLocal": 0,
+    "children": true,
+    "allowPartialDownload": false,
+    "_downloadLink": "api/bundle?vid=msp430_devices__3.80.01.01&download=true",
+    "_makeofflineLink": "api/bundles?vids=msp430_devices__3.80.01.01",
+    "_removeofflineLink": "api/resources?package=c2000ware_devices_package__1.00.02.00::cc13x0_devices__1.00.00.0002::cc13xx_devtools__1.00.00.0002::cc26x0_devices__1.00.00.0002::cc26xx_devtools__1.00.00.0001::cc32xx_devices__1.00.00.00::cc32xx_devtools__1.00.00.00::ccs_devtools__1.00.00.12::com.ti.mmwave_devices__1.0.0::com.ti.mmwave_devtools__0.2.0::msp430_devices__3.80.01.01::msp430_devtools__3.80.01.01::msp432_devices__1.10.00.15::msp432_devtools__1.10.00.15::mspdevtools__1.00.00.40::sdtoutilities__1.00.00.05::sitara_devices__1.00.00.00::sitara_devtools__1.00.00.00::tivac_devices__1.00.00.00::tivac_devtools__1.00.00.00::xdsdebugprobes__1.00.00.03&path=Device Documentation/MSP430FR2XX_4XX/MSP430FR2533&removeoffline=true",
+    "state": {
+      "opened": false
+    },
+    "package": "MSP430 Device Documents",
+    "packageUId": "msp430_devices__3.80.01.01",
+    "url": "/api/resources?path=Device%20Documentation/MSP430FR2XX_4XX&package=",
+    "overviewDescription": "The MSP430FR2xx/4xx platform features devices with a small memory footprint with an ultra-low-power LCD controller and abundant capacitive touch enabled IO pins. The 256-segment LCD controller has an integrated charge pump for maintained contrast in low-power modes and features software configurable pins for simplified hardware layout of LCDs. IR modulation logic is also available on these MCUs.",
+    "overviewImage": "tirex-product-tree/msp430_devices_3_80_01_01/.metadata/.tirex/images/msp430fr2xx_4xx_square.png",
+    "packageOrder": 89
+  },
+  {
+    "text": "MSP430FR2632",
+    "type": "folder",
+    "numChildren": 3,
+    "numChildrenLocal": 0,
+    "children": true,
+    "allowPartialDownload": false,
+    "_downloadLink": "api/bundle?vid=msp430_devices__3.80.01.01&download=true",
+    "_makeofflineLink": "api/bundles?vids=msp430_devices__3.80.01.01",
+    "_removeofflineLink": "api/resources?package=c2000ware_devices_package__1.00.02.00::cc13x0_devices__1.00.00.0002::cc13xx_devtools__1.00.00.0002::cc26x0_devices__1.00.00.0002::cc26xx_devtools__1.00.00.0001::cc32xx_devices__1.00.00.00::cc32xx_devtools__1.00.00.00::ccs_devtools__1.00.00.12::com.ti.mmwave_devices__1.0.0::com.ti.mmwave_devtools__0.2.0::msp430_devices__3.80.01.01::msp430_devtools__3.80.01.01::msp432_devices__1.10.00.15::msp432_devtools__1.10.00.15::mspdevtools__1.00.00.40::sdtoutilities__1.00.00.05::sitara_devices__1.00.00.00::sitara_devtools__1.00.00.00::tivac_devices__1.00.00.00::tivac_devtools__1.00.00.00::xdsdebugprobes__1.00.00.03&path=Device Documentation/MSP430FR2XX_4XX/MSP430FR2632&removeoffline=true",
+    "state": {
+      "opened": false
+    },
+    "package": "MSP430 Device Documents",
+    "packageUId": "msp430_devices__3.80.01.01",
+    "url": "/api/resources?path=Device%20Documentation/MSP430FR2XX_4XX&package=",
+    "overviewDescription": "The MSP430FR2xx/4xx platform features devices with a small memory footprint with an ultra-low-power LCD controller and abundant capacitive touch enabled IO pins. The 256-segment LCD controller has an integrated charge pump for maintained contrast in low-power modes and features software configurable pins for simplified hardware layout of LCDs. IR modulation logic is also available on these MCUs.",
+    "overviewImage": "tirex-product-tree/msp430_devices_3_80_01_01/.metadata/.tirex/images/msp430fr2xx_4xx_square.png",
+    "packageOrder": 89
+  },
+  {
+    "text": "MSP430FR2633",
+    "type": "folder",
+    "numChildren": 3,
+    "numChildrenLocal": 0,
+    "children": true,
+    "allowPartialDownload": false,
+    "_downloadLink": "api/bundle?vid=msp430_devices__3.80.01.01&download=true",
+    "_makeofflineLink": "api/bundles?vids=msp430_devices__3.80.01.01",
+    "_removeofflineLink": "api/resources?package=c2000ware_devices_package__1.00.02.00::cc13x0_devices__1.00.00.0002::cc13xx_devtools__1.00.00.0002::cc26x0_devices__1.00.00.0002::cc26xx_devtools__1.00.00.0001::cc32xx_devices__1.00.00.00::cc32xx_devtools__1.00.00.00::ccs_devtools__1.00.00.12::com.ti.mmwave_devices__1.0.0::com.ti.mmwave_devtools__0.2.0::msp430_devices__3.80.01.01::msp430_devtools__3.80.01.01::msp432_devices__1.10.00.15::msp432_devtools__1.10.00.15::mspdevtools__1.00.00.40::sdtoutilities__1.00.00.05::sitara_devices__1.00.00.00::sitara_devtools__1.00.00.00::tivac_devices__1.00.00.00::tivac_devtools__1.00.00.00::xdsdebugprobes__1.00.00.03&path=Device Documentation/MSP430FR2XX_4XX/MSP430FR2633&removeoffline=true",
+    "state": {
+      "opened": false
+    },
+    "package": "MSP430 Device Documents",
+    "packageUId": "msp430_devices__3.80.01.01",
+    "url": "/api/resources?path=Device%20Documentation/MSP430FR2XX_4XX&package=",
+    "overviewDescription": "The MSP430FR2xx/4xx platform features devices with a small memory footprint with an ultra-low-power LCD controller and abundant capacitive touch enabled IO pins. The 256-segment LCD controller has an integrated charge pump for maintained contrast in low-power modes and features software configurable pins for simplified hardware layout of LCDs. IR modulation logic is also available on these MCUs.",
+    "overviewImage": "tirex-product-tree/msp430_devices_3_80_01_01/.metadata/.tirex/images/msp430fr2xx_4xx_square.png",
+    "packageOrder": 89
+  },
+  {
+    "text": "MSP430FR4131",
+    "type": "folder",
+    "numChildren": 3,
+    "numChildrenLocal": 0,
+    "children": true,
+    "allowPartialDownload": false,
+    "_downloadLink": "api/bundle?vid=msp430_devices__3.80.01.01&download=true",
+    "_makeofflineLink": "api/bundles?vids=msp430_devices__3.80.01.01",
+    "_removeofflineLink": "api/resources?package=c2000ware_devices_package__1.00.02.00::cc13x0_devices__1.00.00.0002::cc13xx_devtools__1.00.00.0002::cc26x0_devices__1.00.00.0002::cc26xx_devtools__1.00.00.0001::cc32xx_devices__1.00.00.00::cc32xx_devtools__1.00.00.00::ccs_devtools__1.00.00.12::com.ti.mmwave_devices__1.0.0::com.ti.mmwave_devtools__0.2.0::msp430_devices__3.80.01.01::msp430_devtools__3.80.01.01::msp432_devices__1.10.00.15::msp432_devtools__1.10.00.15::mspdevtools__1.00.00.40::sdtoutilities__1.00.00.05::sitara_devices__1.00.00.00::sitara_devtools__1.00.00.00::tivac_devices__1.00.00.00::tivac_devtools__1.00.00.00::xdsdebugprobes__1.00.00.03&path=Device Documentation/MSP430FR2XX_4XX/MSP430FR4131&removeoffline=true",
+    "state": {
+      "opened": false
+    },
+    "package": "MSP430 Device Documents",
+    "packageUId": "msp430_devices__3.80.01.01",
+    "url": "/api/resources?path=Device%20Documentation/MSP430FR2XX_4XX&package=",
+    "overviewDescription": "The MSP430FR2xx/4xx platform features devices with a small memory footprint with an ultra-low-power LCD controller and abundant capacitive touch enabled IO pins. The 256-segment LCD controller has an integrated charge pump for maintained contrast in low-power modes and features software configurable pins for simplified hardware layout of LCDs. IR modulation logic is also available on these MCUs.",
+    "overviewImage": "tirex-product-tree/msp430_devices_3_80_01_01/.metadata/.tirex/images/msp430fr2xx_4xx_square.png",
+    "packageOrder": 89
+  },
+  {
+    "text": "MSP430FR4132",
+    "type": "folder",
+    "numChildren": 3,
+    "numChildrenLocal": 0,
+    "children": true,
+    "allowPartialDownload": false,
+    "_downloadLink": "api/bundle?vid=msp430_devices__3.80.01.01&download=true",
+    "_makeofflineLink": "api/bundles?vids=msp430_devices__3.80.01.01",
+    "_removeofflineLink": "api/resources?package=c2000ware_devices_package__1.00.02.00::cc13x0_devices__1.00.00.0002::cc13xx_devtools__1.00.00.0002::cc26x0_devices__1.00.00.0002::cc26xx_devtools__1.00.00.0001::cc32xx_devices__1.00.00.00::cc32xx_devtools__1.00.00.00::ccs_devtools__1.00.00.12::com.ti.mmwave_devices__1.0.0::com.ti.mmwave_devtools__0.2.0::msp430_devices__3.80.01.01::msp430_devtools__3.80.01.01::msp432_devices__1.10.00.15::msp432_devtools__1.10.00.15::mspdevtools__1.00.00.40::sdtoutilities__1.00.00.05::sitara_devices__1.00.00.00::sitara_devtools__1.00.00.00::tivac_devices__1.00.00.00::tivac_devtools__1.00.00.00::xdsdebugprobes__1.00.00.03&path=Device Documentation/MSP430FR2XX_4XX/MSP430FR4132&removeoffline=true",
+    "state": {
+      "opened": false
+    },
+    "package": "MSP430 Device Documents",
+    "packageUId": "msp430_devices__3.80.01.01",
+    "url": "/api/resources?path=Device%20Documentation/MSP430FR2XX_4XX&package=",
+    "overviewDescription": "The MSP430FR2xx/4xx platform features devices with a small memory footprint with an ultra-low-power LCD controller and abundant capacitive touch enabled IO pins. The 256-segment LCD controller has an integrated charge pump for maintained contrast in low-power modes and features software configurable pins for simplified hardware layout of LCDs. IR modulation logic is also available on these MCUs.",
+    "overviewImage": "tirex-product-tree/msp430_devices_3_80_01_01/.metadata/.tirex/images/msp430fr2xx_4xx_square.png",
+    "packageOrder": 89
+  },
+  {
+    "text": "MSP430FR4133",
+    "type": "folder",
+    "numChildren": 3,
+    "numChildrenLocal": 0,
+    "children": true,
+    "allowPartialDownload": false,
+    "_downloadLink": "api/bundle?vid=msp430_devices__3.80.01.01&download=true",
+    "_makeofflineLink": "api/bundles?vids=msp430_devices__3.80.01.01",
+    "_removeofflineLink": "api/resources?package=c2000ware_devices_package__1.00.02.00::cc13x0_devices__1.00.00.0002::cc13xx_devtools__1.00.00.0002::cc26x0_devices__1.00.00.0002::cc26xx_devtools__1.00.00.0001::cc32xx_devices__1.00.00.00::cc32xx_devtools__1.00.00.00::ccs_devtools__1.00.00.12::com.ti.mmwave_devices__1.0.0::com.ti.mmwave_devtools__0.2.0::msp430_devices__3.80.01.01::msp430_devtools__3.80.01.01::msp432_devices__1.10.00.15::msp432_devtools__1.10.00.15::mspdevtools__1.00.00.40::sdtoutilities__1.00.00.05::sitara_devices__1.00.00.00::sitara_devtools__1.00.00.00::tivac_devices__1.00.00.00::tivac_devtools__1.00.00.00::xdsdebugprobes__1.00.00.03&path=Device Documentation/MSP430FR2XX_4XX/MSP430FR4133&removeoffline=true",
+    "state": {
+      "opened": false
+    },
+    "package": "MSP430 Device Documents",
+    "packageUId": "msp430_devices__3.80.01.01",
+    "url": "/api/resources?path=Device%20Documentation/MSP430FR2XX_4XX&package=",
+    "overviewDescription": "The MSP430FR2xx/4xx platform features devices with a small memory footprint with an ultra-low-power LCD controller and abundant capacitive touch enabled IO pins. The 256-segment LCD controller has an integrated charge pump for maintained contrast in low-power modes and features software configurable pins for simplified hardware layout of LCDs. IR modulation logic is also available on these MCUs.",
+    "overviewImage": "tirex-product-tree/msp430_devices_3_80_01_01/.metadata/.tirex/images/msp430fr2xx_4xx_square.png",
+    "packageOrder": 89
+  }
+]

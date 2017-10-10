@@ -1,0 +1,43 @@
+#include <msp430.h> 
+
+
+/**
+ * main.c
+ */
+#pragma vector=PORT1_VECTOR
+__interrupt void Port_1(void) {
+    if(P1IFG & BIT1)//If Flagged on BIT1
+    {
+        P1OUT ^= BIT0;//Switch LED
+        P1IFG &= ~BIT1;//Turn off interrupt flag
+    }
+    else if(P1IFG & BIT2)//If flagged on BIT2
+    {
+        P9OUT ^= BIT7;//Switch LED
+        P1IFG &= ~BIT2;//Turn off interrupt flag
+    }
+
+}
+
+int main(void)
+{
+    WDTCTL = WDTPW | WDTHOLD;       // stop watchdog timer
+
+    PM5CTL0 &= ~LOCKLPM5;           // Disable the GPIO power-on default high-impedance mode
+    P1DIR |= 0x01;                  // configure P1.1 as output
+    P1REN |= BIT1;                  // Enabling connect of a resistor to P5.5
+    P1OUT |= BIT1;                  // Initializes LED to on, sets the P1.3 Resistor to a pull up resistor
+
+    P9DIR |= BIT7;                  // configure P1.1 as output
+    P1REN |= BIT2;                  // Enabling connect of a resistor to P5.5
+    P1OUT |= BIT2;                  // Initializes LED to on, sets the P1.3 Resistor to a pull up resistor
+
+    P1IE |= BIT1;//interrupt enable
+    P1IES |= BIT1;//interrupt enable select
+
+    P1IE |= BIT2;//interrupt enable
+    P1IES |= BIT2;//interrupt enable select
+
+    __bis_SR_register(LPM4_bits + GIE);//Low power mode
+
+}
