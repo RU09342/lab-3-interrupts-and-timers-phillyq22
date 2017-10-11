@@ -1,4 +1,4 @@
 # Button Based Delay
 
-##Explanation
+## Explanation
 Philip Quinn: In order to properly execute this lab, both timer interrupts and port vectors had to be implemented. Variables that were declared outside of the main function allocated memory to store the start and end times of a button press. A while loop was used to constantly check for if a local variable called flag evaluated to true. Whenever a button was pressed, the port vector would check for when the button was pressed and when it was released by checking PxIES. After being released, the flag was set off. Using logic to check for overflow of the timer, TA0CCRO and a local variable hz as the increment are both updated. Upon the timer service routine, the LED is toggled and TA0CCR0 is incremented by hz.
