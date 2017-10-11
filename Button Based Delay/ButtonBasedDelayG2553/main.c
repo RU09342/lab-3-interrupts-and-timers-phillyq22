@@ -23,8 +23,8 @@ int main(void)
     // Disable the GPIO power-on default high-impedance mode to activate
     // previously configured port settings
 
-    // Timer1_B3 setup
-    TA0CCTL0 = CCIE;                              // TBCCR0 interrupt enabled
+    // Timer0_A setup
+    TA0CCTL0 = CCIE;                              // TA	CCR0 interrupt enabled
     TA0CCR0 = 205;// set to 20Hz
     hz = 205;// increment value for CCR0
     TA0CTL = TASSEL_1 + MC_2 + ID_3;                     // ACLK, continuous mode, 32768/8 = 4096 Hz
@@ -69,7 +69,7 @@ __interrupt void Port1(void)
     P1IFG &= ~BIT3;                 //clear flag
 
 }
-// Timer B1 interrupt service routine
+// Timer A0 interrupt service routine
 #pragma vector = TIMER0_A0_VECTOR
 __interrupt void Timer0_A0_ISR(void)
 
